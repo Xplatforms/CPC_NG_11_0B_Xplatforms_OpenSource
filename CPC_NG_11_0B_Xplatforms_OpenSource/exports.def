@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+   GetECUName   @1
+   GetComment   @2
+   GetConfiguredAccessTypes   @3
+   GetSeedLength   @4
+   GetKeyLength @5
+   GenerateKeyExOpt @6
