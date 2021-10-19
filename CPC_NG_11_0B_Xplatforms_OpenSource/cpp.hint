@@ -1,0 +1,2 @@
+#define CPCNG110BXPLATFORMSOPENSOURCE_API __declspec(dllexport)
+#define CPCNG110BXPLATFORMSOPENSOURCE_API __declspec(dllimport)
