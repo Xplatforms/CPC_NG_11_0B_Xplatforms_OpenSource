@@ -1,22 +1,16 @@
 # CPC_NG_11_0B_Xplatforms_OpenSource
 
-MB SeedKey DLL Example with key calculation for CPC_NG
+## Overview
+CPC_NG_11_0B_Xplatforms_OpenSource is an open-source project providing an example DLL for the Mercedes-Benz (MB) Seed Key Algorithm, specifically for CPC_NG (Central Powertrain Controller). This DLL includes key calculation functionality, implemented in C++.
 
-Compile it with Visual Studio as an Win32 x86 32-bit DLL
+## Features
+- SeedKey key generation and validation
+- Implemented functions such as `GetECUName`, `GetSeedLength`, and `GenerateKeyExOpt`
+- Compatible with Win32 x86 (32-bit) / Compile it with Visual Studio as an Win32 x86 32-bit DLL
+- Testable with the MBSeedKey calculator from [here](https://github.com/Xplatforms/mbseedkey)
 
-This functions is implemented an exported:
+## License
+Licensed under GPL-3.0.
 
-GetECUName
-
-GetComment
-
-GetConfiguredAccessTypes 
-
-GetSeedLength 
-
-GetKeyLength 
-
-GenerateKeyExOpt
-
-
-You can test it with mbseedkey calculator from here: https://github.com/Xplatforms/mbseedkey
+## Contributions
+Contributions are welcome!
