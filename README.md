@@ -7,7 +7,7 @@ CPC_NG_11_0B_Xplatforms_OpenSource is an open-source project providing an exampl
 - SeedKey key generation and validation
 - Implemented functions such as `GetECUName`, `GetSeedLength`, and `GenerateKeyExOpt`
 - Compatible with Win32 x86 (32-bit) / Compile it with Visual Studio as an Win32 x86 32-bit DLL
-- Testable with the MBSeedKey calculator from [here](https://github.com/Xplatforms/mbseedkey)
+- Testable with the MBSeedKey calculator from [[here](https://github.com/Xplatforms/mbseedkey)](https://github.com/Xplatforms/mbseedkey)
 
 ## License
 Licensed under GPL-3.0.
